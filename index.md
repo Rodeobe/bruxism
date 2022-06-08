@@ -1,8 +1,6 @@
 ## The online bruxism remedy list
 
-You can use the [editor on GitHub](https://github.com/Rodeobe/bruxism/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+An online, crowdsourced and curated overview of treatments that can help with bruxism (teeth grinding). Hope this site gives you your smile back!
 
 ### Markdown
 
