@@ -1,4 +1,4 @@
-## Welcome to Bruxism - the online remedy list
+## The online bruxism remedy list
 
 You can use the [editor on GitHub](https://github.com/Rodeobe/bruxism/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -28,9 +28,9 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Contribute
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rodeobe/bruxism/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Thank you for your interest. Check out the Wiki for how to get started. Also, have a look at our current issues and discussions.
 
 ### Support or Contact
 
