@@ -3,6 +3,14 @@
 An online, crowdsourced and curated overview of **treatments that can help with bruxism** (teeth grinding). Hope this site gives you your smile back!
 
 ## List
+
+We grouped the treatments in the following categories:
+- [Pills](#Pills), meaning drug, food supplements, 
+- [Psychology](#Psychology), eg. biofeedback tools,
+- [Psysical therapy](#Psysical), eg. specific excercises,
+- [Plates](#Plates), more specifically all kinds of mouth guards, mouth correction tools,
+- [Others](#Others), including medical procedures.
+- 
 ### Pills
 - Stress reducing medical supplements, eg. CBD oil
 - Reduce coffee intake
@@ -33,15 +41,6 @@ An online, crowdsourced and curated overview of **treatments that can help with 
 
 
 ## Background
-
-### Categorization
-
-We grouped the treatments in the following categories:
-- Pills, meaning drug, food supplements, 
-- Psychology, eg. biofeedback tools,
-- Psysical therapy, eg. specific excercises,
-- Plates, more specifically all kinds of mouth guards, mouth correction tools,
-- Others, including medical procedures.
 
 ### Contribute
 This is a crowdsourced list. So if you have comments, additional tools, etc. share them with us.
