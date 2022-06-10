@@ -4,20 +4,20 @@ An online, crowdsourced and curated overview of **treatments that can help with 
 
 ## List
 
-We grouped the treatments in the following categories:
+We grouped the treatments in the following categories [1]:
 - 💊[Pills](#Pills), meaning drug, food supplements, 
 - 🧠[Psychology](#Psychology), eg. biofeedback tools,
 - 🏃‍♀️[Psysical therapy](#Psysical-therapy), eg. specific excercises,
 - 🦷[Plates](#Plates), more specifically all kinds of mouth guards, mouth correction tools,
 - [Others](#Others), including medical procedures.
 
-### 💊Pills
+### Pills
 - Stress reducing medical supplements, eg. CBD oil
 - Reduce ☕ coffee intake
 - Avoid certain (medical) drugs 
 - Avoid a too acidic diet	
 
-### 🧠Psychology
+### Psychology
 - Jawsaver, Smart earbuds to help manage teeth grinding & clenching.
 - Faceformer, a functional, neurophysiological training program against bruxism.
 - General stress reduction techniques
@@ -25,11 +25,11 @@ We grouped the treatments in the following categories:
 - Bruxoff
 - GrindAlert
 
-### 🏃Psychical therapy
+### Psychical therapy
 - Mouth excercices	
 - Jaw excercises
 
-### 🦷Plates
+### Plates
 - Mouth Guards
 - Bite Correction	
 - Taping the mouth shut
@@ -46,8 +46,9 @@ We grouped the treatments in the following categories:
 This is a crowdsourced list. So if you have comments, additional tools, etc. share them with us.
 
 ### Interesting reads
+- [1] "Behandeling van bruxisme. De psychologische benadering", Nederlands Tijdschrift voor Tandheelkunde, https://hdl.handle.net/11245/1.168736 (in Dutch)
 
 ### Support or Contact
 
-Organised by the Bruxism Working Group.
+Organised by the [Bruxism Working Group](https://www.spineo.org).
 Questions: contact [Fien](https://www.fienjonnaert.be).
