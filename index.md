@@ -17,6 +17,15 @@ We grouped the treatments in the following categories [1]:
 - Avoid certain (medical) drugs 
 - Avoid a too acidic diet	
 
+Description | Does it work? | References |  
+|--------|------------------|----------------|  
+|Stress reducing medical supplements, eg. CBD oil|Yes, stress reduction helps|
+|Reduce ☕ coffee intake|Yes, reduction of stimulants can help|
+|Avoid certain (medical) drugs|Yes|
+|Avoid a too acidic diet|Tbd|
+
+
+
 ### Psychology
 - Jawsaver, Smart earbuds to help manage teeth grinding & clenching.
 - Faceformer, a functional, neurophysiological training program against bruxism.
