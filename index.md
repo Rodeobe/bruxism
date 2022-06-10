@@ -5,11 +5,11 @@ An online, crowdsourced and curated overview of **treatments that can help with 
 ## List
 
 We grouped the treatments in the following categories [1]:
-- 💊[Pills](#Pills), meaning drug, food supplements, 
-- 🧠[Psychology](#Psychology), eg. biofeedback tools,
-- 🏃‍♀️[Psysical therapy](#Psysical-therapy), eg. specific excercises,
-- 🦷[Plates](#Plates), more specifically all kinds of mouth guards, mouth correction tools,
-- [Others](#Others), including medical procedures.
+- 💊[Pills](#pills), meaning drug, food supplements, 
+- 🧠[Psychology](#psychology), eg. biofeedback tools,
+- 🏃‍♀️[Psysical therapy](#psysical-therapy), eg. specific excercises,
+- 🦷[Plates](#plates), more specifically all kinds of mouth guards, mouth correction tools,
+- [Others](#others), including medical procedures.
 
 ### Pills
 - Stress reducing medical supplements, eg. CBD oil
