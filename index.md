@@ -11,13 +11,13 @@ We grouped the treatments in the following categories:
 - 🦷[Plates](#Plates), more specifically all kinds of mouth guards, mouth correction tools,
 - [Others](#Others), including medical procedures.
 
-### 💊Pills
+### Pills
 - Stress reducing medical supplements, eg. CBD oil
 - Reduce ☕ coffee intake
 - Avoid certain (medical) drugs 
 - Avoid a too acidic diet	
 
-### 🧠Psychology
+### Psychology
 - Jawsaver, Smart earbuds to help manage teeth grinding & clenching.
 - Faceformer, a functional, neurophysiological training program against bruxism.
 - General stress reduction techniques
@@ -25,11 +25,11 @@ We grouped the treatments in the following categories:
 - Bruxoff
 - GrindAlert
 
-### 🏃‍♀️Psychical therapy
+### 🏃♀️Psychical therapy
 - Mouth excercices	
 - Jaw excercises
 
-### 🦷Plates
+### Plates
 - Mouth Guards
 - Bite Correction	
 - Taping the mouth shut
