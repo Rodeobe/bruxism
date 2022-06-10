@@ -29,9 +29,11 @@ We grouped the treatments in the following categories:
 - Grindcare
 - Bruxoff
 - GrindAlert
+
 ### Psychical therapy
 - Mouth excercices	
 - Jaw excercises
+
 ### Plates
 - Mouth Guards
 - Bite Correction	
