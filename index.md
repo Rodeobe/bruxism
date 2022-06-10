@@ -10,7 +10,7 @@ We grouped the treatments in the following categories:
 - 🏃‍♀️[Psysical therapy](#Psysical-therapy), eg. specific excercises,
 - 🦷[Plates](#Plates), more specifically all kinds of mouth guards, mouth correction tools,
 - [Others](#Others), including medical procedures.
-- 
+
 ### 💊Pills
 - Stress reducing medical supplements, eg. CBD oil
 - Reduce ☕ coffee intake
