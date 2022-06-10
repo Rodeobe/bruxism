@@ -7,7 +7,7 @@ An online, crowdsourced and curated overview of **treatments that can help with 
 We grouped the treatments in the following categories:
 - [Pills](#Pills), meaning drug, food supplements, 
 - [Psychology](#Psychology), eg. biofeedback tools,
-- [Psysical therapy](#Psysical), eg. specific excercises,
+- [Psysical therapy](#Psysical-therapy), eg. specific excercises,
 - [Plates](#Plates), more specifically all kinds of mouth guards, mouth correction tools,
 - [Others](#Others), including medical procedures.
 - 
