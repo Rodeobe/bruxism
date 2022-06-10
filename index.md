@@ -13,7 +13,7 @@ We grouped the treatments in the following categories:
 - 
 ### 💊Pills
 - Stress reducing medical supplements, eg. CBD oil
-- Reduce coffee intake
+- Reduce ☕ coffee intake
 - Avoid certain (medical) drugs 
 - Avoid a too acidic diet	
 
@@ -37,7 +37,7 @@ We grouped the treatments in the following categories:
 ### Others
 - Tongue surgery
 - Botox injections
-- Nasal dilators
+- 👃Nasal dilators
 
 
 ## Background
