@@ -3,7 +3,7 @@
 An online, crowdsourced and curated overview of **treatments that can help with bruxism** (teeth grinding). Hope this site gives you your smile back!
 
 ### Contribute
-This is a crowdsources list. So if you have comments, additional tools, etc. share them with us.
+This is a crowdsourced list. So if you have comments, additional tools, etc. share them with us.
 
 ### Categorization
 
@@ -18,6 +18,10 @@ We grouped the treatments in the following categories:
 ## List
 ### Pills
 - Stress reducing medical supplements, eg. CBD oil
+- Reduce coffee intake
+- Avoid certain (medical) drugs 
+- Avoid a too acidic diet	
+
 ### Psychology
 - Jawsaver, Smart earbuds to help manage teeth grinding & clenching.
 - Faceformer, a functional, neurophysiological training program against bruxism.
@@ -31,13 +35,13 @@ We grouped the treatments in the following categories:
 ### Plates
 - Mouth Guards
 - Bite Correction	
-- Taping the mouth
-- Nasal dilators	
+- Taping the mouth shut
 
 ### Others
 - Tongue surgery
 - Botox injections
-- Acidic diet	
+- Nasal dilators
+
 
 ## Background
 ### Interesting reads
