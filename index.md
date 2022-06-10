@@ -7,7 +7,7 @@ An online, crowdsourced and curated overview of **treatments that can help with 
 We grouped the treatments in the following categories [1]:
 - 💊[Pills](#pills), meaning drug, food supplements, 
 - 🧠[Psychology](#psychology), eg. biofeedback tools,
-- 🏃‍♀️[Psysical therapy](#psysical-therapy), eg. specific excercises,
+- 🏃‍♀️[Psysical therapy](#physical-therapy), eg. specific excercises,
 - 🦷[Plates](#plates), more specifically all kinds of mouth guards, mouth correction tools,
 - [Others](#others), including medical procedures.
 
@@ -25,7 +25,7 @@ We grouped the treatments in the following categories [1]:
 - Bruxoff
 - GrindAlert
 
-### Psychical therapy
+### Physical therapy
 - Mouth excercices	
 - Jaw excercises
 
