@@ -28,7 +28,7 @@ Description | Does it work? | References |
 
 
 ### Psychology
-- Jawsaver, Smart earbuds to help manage teeth grinding & clenching.
+- Biodynamic devices, including Jawsaver (smart earbuds), Grindcare, Jawsense, and others.
 - Faceformer, a functional, neurophysiological training program against bruxism.
 - General stress reduction techniques
 - Grindcare
