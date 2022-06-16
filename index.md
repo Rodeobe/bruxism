@@ -14,7 +14,8 @@ We grouped the treatments in the following categories [1]:
 ### Pills
 - Stress reducing medical supplements, eg. CBD oil
 - Reduce ☕ coffee intake
-- Avoid certain (medical) drugs 
+- Avoid certain medical drugs, like [SSRIs](https://www.spineo.org/link-between-bruxism-and-selective-serotonin-reuptake-inhibitors-ssris)
+- Avoid stimulants, like [ecstasy and MDMA](https://www.spineo.org/ecstasy-mdma-and-bruxism/)
 - Avoid a too acidic diet	
 
 Description | Does it work? | References |  
