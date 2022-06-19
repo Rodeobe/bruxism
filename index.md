@@ -1,6 +1,6 @@
-## The online bruxism remedy list
+## Teeth grinding remedies
 
-An online, crowdsourced and curated overview of **treatments that can help with bruxism** (teeth grinding). Hope this site gives you your 😊 back!
+An online, crowdsourced and curated overview of **treatments that can help with teeth grinding** (***bruxism***). Hope this site gives you your 😊 back!
 
 ## List
 
