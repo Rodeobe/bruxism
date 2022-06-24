@@ -41,10 +41,10 @@ Avoid stimulants, like [ecstasy and MDMA](https://www.spineo.org/ecstasy-mdma-an
 - Taping the mouth shut
 
 ### Others
-- Tongue surgery
-- Botox injections
+- 👅Tongue surgery
+- 💉Botox injections
 - 👃Nasal dilators
-- Correct hydratation
+- 🌊Correct hydratation
 
 
 ## Background
