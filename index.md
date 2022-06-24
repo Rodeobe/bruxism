@@ -12,19 +12,15 @@ We grouped the treatments in the following categories [1]:
 - [Others](#others), including medical procedures.
 
 ### Pills
-- Stress reducing medical supplements, eg. CBD oil
-- Reduce ☕ coffee intake
-- Avoid certain medical drugs, like [SSRIs](https://www.spineo.org/link-between-bruxism-and-selective-serotonin-reuptake-inhibitors-ssris)
-- Avoid stimulants, like [ecstasy and MDMA](https://www.spineo.org/ecstasy-mdma-and-bruxism/)
-- Avoid a too acidic diet	
-
 Description | Does it work? | References |  
 |--------|------------------|----------------|  
-|Stress reducing medical supplements, eg. CBD oil|Yes, stress reduction helps|Tbd
-|Reduce ☕ coffee intake|Yes, reduction of stimulants can help|Tbd
-|Avoid certain (medical) drugs|Yes|Tbd
-|Avoid a too acidic diet|Unclear|Tbd
-|Use of muscle Relaxants|Unclear|Tbd
+Reduce stress using drugs or supplements, eg. CBD oil|Yes, stress reduction helps|Tbd
+Reduce ☕ coffee intake|Yes, reduction of stimulants can help|Tbd
+Avoid certain (medical) drugs, like [SSRIs](https://www.spineo.org/link-between-bruxism-and-selective-serotonin-reuptake-inhibitors-ssris)|Yes|Tbd
+Avoid a too acidic diet|Unclear|Tbd
+Use of muscle relaxants|Unclear|Tbd
+Avoid stimulants, like [ecstasy and MDMA](https://www.spineo.org/ecstasy-mdma-and-bruxism/)|Unclear|Tbd
+
 
 
 
@@ -37,6 +33,7 @@ Description | Does it work? | References |
 ### Physical therapy
 - Mouth excercices	
 - Jaw excercises
+- HIIT excercises
 
 ### Plates
 - Mouth Guards
