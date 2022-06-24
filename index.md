@@ -20,19 +20,18 @@ We grouped the treatments in the following categories [1]:
 
 Description | Does it work? | References |  
 |--------|------------------|----------------|  
-|Stress reducing medical supplements, eg. CBD oil|Yes, stress reduction helps|
-|Reduce ☕ coffee intake|Yes, reduction of stimulants can help|
-|Avoid certain (medical) drugs|Yes|
-|Avoid a too acidic diet|Tbd|
+|Stress reducing medical supplements, eg. CBD oil|Yes, stress reduction helps|Tbd
+|Reduce ☕ coffee intake|Yes, reduction of stimulants can help|Tbd
+|Avoid certain (medical) drugs|Yes|Tbd
+|Avoid a too acidic diet|Unclear|Tbd
+|Use of muscle Relaxants|Unclear|Tbd
 
 
 
 ### Psychology
-- Biodynamic devices, including Jawsaver (smart earbuds), Grindcare, Jawsense, and others.
+- Biodynamic devices, a tool that monitors the user, and informs/warns the user (eg. using vibrations or a smartphone app) of the behaviour. These tools include Jawsaver (smart earbuds), Grindcare, Jawsense, and others.
 - Faceformer, a functional, neurophysiological training program against bruxism.
-- General stress reduction techniques
-- Grindcare
-- Bruxoff
+- General stress reduction techniques, eg. meditation or mindfulness
 - GrindAlert
 
 ### Physical therapy
@@ -41,13 +40,14 @@ Description | Does it work? | References |
 
 ### Plates
 - Mouth Guards
-- Bite Correction	
+- Bite or Dental Correction	
 - Taping the mouth shut
 
 ### Others
 - Tongue surgery
 - Botox injections
 - 👃Nasal dilators
+- Correct hydratation
 
 
 ## Background
