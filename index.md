@@ -25,7 +25,7 @@ Description | Does it work? | References |
 
 
 ### Psychology
-- Biodynamic devices, a tool that monitors bruxism behaviour, and informs/warns the user about it, eg. using vibrations or a smartphone app.  These tools include Jawsaver (smart earbuds), Grindcare, Jawsense, bytesense and others.
+- Biodynamic devices. Tools that monitor bruxism behaviour and inform the user about it, eg. using vibrations or a smartphone app. Examples of biodynamic devides are Jawsaver (in the form of smart earbuds), Grindcare (with a specific device), Jawsense, bytesense and others.
 - Faceformer, a functional, neurophysiological training program against bruxism.
 - General stress reduction techniques, eg. meditation or mindfulness
 - GrindAlert
