@@ -56,5 +56,4 @@ This is a crowdsourced list. So if you have comments, additional tools, etc. sha
 - [1] "Behandeling van bruxisme. De psychologische benadering", Nederlands Tijdschrift voor Tandheelkunde, https://hdl.handle.net/11245/1.168736 (in Dutch)
 
 ### Support or Contact
-Organised by the [Bruxism Working Group](https://www.spineo.org).
-Questions: contact [Fien](https://www.fienjonnaert.be).
+This overview is curated by [Fien](https://www.fienjonnaert.be), a physical therapist specialised in disorders of the jaw muscles and temporomandibular joints. She works on a [online program](https://www.kaakpunt.be) against bruxism. It iscurrently only available in Dutch - contact her if you want to help internationalise.
