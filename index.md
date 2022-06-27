@@ -12,7 +12,7 @@ We grouped the treatments in the following categories [1]:
 - [Others](#others), including medical procedures.
 
 ### Pills
-Description | Does it work? | References |  
+|Description | Does it work? | References |  
 |--------|------------------|----------------|  
 |Reduce stress using drugs or supplements, eg. CBD oil|Yes, stress reduction helps|Tbd|
 |Reduce ☕ coffee intake|Yes, reduction of stimulants can help|Tbd|
