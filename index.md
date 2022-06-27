@@ -14,12 +14,12 @@ We grouped the treatments in the following categories [1]:
 ### Pills
 Description | Does it work? | References |  
 |--------|------------------|----------------|  
-|Reduce stress using drugs or supplements, eg. CBD oil|Yes, stress reduction helps|Tbd
-|Reduce ☕ coffee intake|Yes, reduction of stimulants can help|Tbd
-|Avoid certain (medical) drugs, like [SSRIs](https://www.spineo.org/link-between-bruxism-and-selective-serotonin-reuptake-inhibitors-ssris)|Yes|Tbd
-|Avoid a too acidic diet|Unclear|Tbd
-|Use of muscle relaxants|Unclear|Tbd
-|Avoid stimulants, like [ecstasy and MDMA](https://www.spineo.org/ecstasy-mdma-and-bruxism/)|Unclear|Tbd
+|Reduce stress using drugs or supplements, eg. CBD oil|Yes, stress reduction helps|Tbd|
+|Reduce ☕ coffee intake|Yes, reduction of stimulants can help|Tbd|
+|Avoid certain (medical) drugs, like [SSRIs](https://www.spineo.org/link-between-bruxism-and-selective-serotonin-reuptake-inhibitors-ssris)|Yes|Tbd|
+|Avoid a too acidic diet|Unclear|Tbd|
+|Use of muscle relaxants|Unclear|Tbd|
+|Avoid stimulants, like [ecstasy and MDMA](https://www.spineo.org/ecstasy-mdma-and-bruxism/)|Unclear|Tbd|
 
 
 
@@ -56,4 +56,4 @@ This is a crowdsourced list. So if you have comments, additional tools, etc. sha
 - [1] "Behandeling van bruxisme. De psychologische benadering", Nederlands Tijdschrift voor Tandheelkunde, https://hdl.handle.net/11245/1.168736 (in Dutch)
 
 ### Support or Contact
-This overview is curated by [Fien](https://www.fienjonnaert.be), a physical therapist specialised in disorders of the jaw muscles and temporomandibular joints. She works on a [online program](https://www.kaakpunt.be) against bruxism. It iscurrently only available in Dutch - contact her if you want to help internationalise.
+This overview is curated by [Fien](https://www.fienjonnaert.be), a physical therapist specialised in disorders of the jaw muscles and temporomandibular joints. She works on a [online program](https://www.kaakpunt.be) against bruxism, currently only available in Dutch. Contact her if you want to help internationalise.
