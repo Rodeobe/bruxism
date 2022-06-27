@@ -12,14 +12,14 @@ We grouped the treatments in the following categories [1]:
 - [Others](#others), including medical procedures.
 
 ### Pills
-|Description | Does it work? | References |  
-|--------|------------------|----------------|  
-|Reduce stress using drugs or supplements, eg. CBD oil|Yes, stress reduction helps|Tbd|
-|Reduce ☕ coffee intake|Yes, reduction of stimulants can help|Tbd|
-|Avoid certain (medical) drugs, like [SSRIs](https://www.spineo.org/link-between-bruxism-and-selective-serotonin-reuptake-inhibitors-ssris)|Yes|Tbd|
-|Avoid a too acidic diet|Unclear|Tbd|
-|Use of muscle relaxants|Unclear|Tbd|
-|Avoid stimulants, like [ecstasy and MDMA](https://www.spineo.org/ecstasy-mdma-and-bruxism/)|Unclear|Tbd|
+| Description | Does it work? | References |  
+| --------|------------------|----------------|  
+| Reduce stress using drugs or supplements, eg. CBD oil| Yes, stress reduction helps| Tbd|
+| Reduce ☕ coffee intake|Yes, reduction of stimulants can help| Tbd|
+| Avoid certain (medical) drugs, like [SSRIs](https://www.spineo.org/link-between-bruxism-and-selective-serotonin-reuptake-inhibitors-ssris)| Yes| Tbd|
+| Avoid a too acidic diet| Unclear| Tbd|
+| Use of muscle relaxants| Unclear| Tbd|
+| Avoid stimulants, like [ecstasy and MDMA](https://www.spineo.org/ecstasy-mdma-and-bruxism/)| Unclear| Tbd|
 
 
 
