@@ -12,22 +12,19 @@ We grouped the treatments in the following categories [1]:
 - [Others](#others), including medical procedures.
 
 ### Pills
-| Description | Does it work? | References |  
-| --------| ------------------| ---------------- |  
-| Reduce stress using drugs or supplements, eg. CBD oil | Yes, stress reduction helps| Tbd |
-| Reduce ☕ coffee intake| Yes, reduction of stimulants can help | Tbd |
-| Avoid certain (medical) drugs, like [SSRIs](https://www.spineo.org/link-between-bruxism-and-selective-serotonin-reuptake-inhibitors-ssris)| Yes | Tbd |
-| Avoid a too acidic diet| Unclear | Tbd |
-| Use of muscle relaxants| Unclear | Tbd |
-| Avoid stimulants, like [ecstasy and MDMA](https://www.spineo.org/ecstasy-mdma-and-bruxism/)| Unclear | Tbd |
+- Reduce stress using drugs or supplements, eg. CBD oil
+- Reduce ☕ coffee intake or other stimulants like [ecstasy and MDMA](https://www.spineo.org/ecstasy-mdma-and-bruxism/)
+- Avoid certain (medical) drugs, like [SSRIs](https://www.spineo.org/link-between-bruxism-and-selective-serotonin-reuptake-inhibitors-ssris)
+- Avoid a too acidic diet (?? to be confirmed)
+- Use of muscle relaxants (?? to be confirmed) 
 
 
 
 
 ### Psychology
-- Biodynamic devices. Tools that monitor bruxism behaviour and inform the user about it, eg. using vibrations or a smartphone app. Examples of biodynamic devides are Jawsaver (in the form of smart earbuds), Grindcare (with a specific device), Jawsense, bytesense and others.
-- Faceformer, a functional, neurophysiological training program against bruxism.
 - General stress reduction techniques, eg. meditation or mindfulness
+- Biodynamic devices. Tools that monitor bruxism behaviour and inform the user about it, eg. using vibrations or a smartphone app. Examples of biodynamic devides are Jawsaver (in the form of smart earbuds), Grindcare (with a specific device), Jawsense, [bytesense](https://www.bytesense.us/) and others.
+- Faceformer, a functional, neurophysiological training program against bruxism.
 - GrindAlert
 
 ### Physical therapy
