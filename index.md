@@ -16,7 +16,7 @@ We grouped the treatments in the following categories [1]:
 - Reduce ☕ coffee intake or other stimulants like [ecstasy and MDMA](https://www.spineo.org/ecstasy-mdma-and-bruxism/)
 - Avoid certain (medical) drugs, like [SSRIs](https://www.spineo.org/link-between-bruxism-and-selective-serotonin-reuptake-inhibitors-ssris)
 - Avoid a too acidic diet (?? to be confirmed)
-- Use of muscle relaxants (?? to be confirmed) 
+- Use of muscle relaxants (eg. Norflex,to be confirmed) 
 
 
 
