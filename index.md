@@ -1,38 +1,40 @@
 ## Teeth grinding remedies
 
-An online, crowdsourced and curated overview of **treatments that can help with teeth grinding** (***bruxism***). Hope [cureteethgrinding.com](http://cureteethgrinding.com/) gives you your 😊 back!
+An online, crowdsourced and curated overview of **treatments that can help with teeth grinding** (***bruxism***). 
+We hope [cureteethgrinding.com](http://cureteethgrinding.com/) gives you your 😊 back!
 
 ## List
 
-We grouped the treatments in the following categories [1]:
+We grouped the treatments in the following categories (according to the taxonomy used in [1]):
 - 💊[Pills](#pills), meaning drug, food supplements, 
 - 🧠[Psychology](#psychology), eg. biofeedback tools,
 - 🏃‍♀️[Psysical therapy](#physical-therapy), eg. specific excercises,
 - 🦷[Plates](#plates), more specifically all kinds of mouth guards, mouth correction tools,
 - [Others](#others), including medical procedures.
 
-### Pills
-- Reduce stress using drugs or supplements, eg. CBD oil
-- Reduce ☕ coffee intake or other stimulants like [ecstasy and MDMA](https://www.spineo.org/ecstasy-mdma-and-bruxism/)
-- Avoid certain (medical) drugs, like [SSRIs](https://www.spineo.org/link-between-bruxism-and-selective-serotonin-reuptake-inhibitors-ssris)
-- Avoid a too acidic diet (?? to be confirmed)
-- Use of muscle relaxants (eg. Norflex,to be confirmed) 
-
-
-
-
 ### Psychology
+TL;DR Bruxism is often associated with stress, with specifically emotional stress and anxiety to be the main triggering factor. To avoid bruxism, these causes must be dealt with.
 - General stress reduction techniques, eg. meditation or mindfulness
 - Biodynamic devices. Tools that monitor bruxism behaviour and inform the user about it, eg. using vibrations or a smartphone app. Examples of biodynamic devides are Jawsaver (in the form of smart earbuds), Grindcare (with a specific device), Jawsense, [bytesense](https://www.bytesense.us/) and others.
 - Faceformer, a functional, neurophysiological training program against bruxism.
 - GrindAlert
 
+### Pills
+TL;DR: some types of drugs, stimulants, diets, can cause bruxism, or help you reduce the symptoms
+- Reduce stress using drugs or supplements, eg. CBD oil
+- Reduce ☕ coffee intake or other stimulants like [ecstasy and MDMA](https://www.spineo.org/ecstasy-mdma-and-bruxism/)
+- Avoid certain (medical) drugs, like [SSRIs](https://www.spineo.org/link-between-bruxism-and-selective-serotonin-reuptake-inhibitors-ssris)
+- Avoid a too acidic diet (?? to be confirmed)
+- Use of muscle relaxants (eg. Norflex, to be confirmed) can help you 
+
 ### Physical therapy
+TL;DR Bruxism is caused by increased jaw-muscle activity, as such specific muscle orientated treatments like stretching, trigger point treatment, dry needling can help treat it.
 - Mouth excercices	
 - Jaw excercises
 - HIIT excercises
 
 ### Plates
+TL;DR Occlusal splints (aka 'dental guards') work by mechanically protecting the teeth. They typically do not reduce the bruxing activity itself.
 - Mouth Guards
 - Bite or Dental Correction	
 - Taping the mouth shut
