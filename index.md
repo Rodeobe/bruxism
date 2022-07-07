@@ -13,14 +13,14 @@ We grouped the treatments in the following categories (according to the taxonomy
 - [Others](#others), including medical procedures.
 
 ### Psychology
-TL;DR Bruxism is often associated with stress, with specifically emotional stress and anxiety to be the main triggering factor. To avoid bruxism, these causes must be dealt with.
+Bruxism is often associated with stress, with specifically emotional stress and anxiety to be the main triggering factor. To avoid bruxism, these causes must be dealt with.
 - General stress reduction techniques, eg. meditation or mindfulness
 - Biodynamic devices. Tools that monitor bruxism behaviour and inform the user about it, eg. using vibrations or a smartphone app. Examples of biodynamic devides are Jawsaver (in the form of smart earbuds), Grindcare (with a specific device), Jawsense, [bytesense](https://www.bytesense.us/) and others.
 - Faceformer, a functional, neurophysiological training program against bruxism.
 - GrindAlert
 
 ### Pills
-TL;DR: some types of drugs, stimulants, diets, can cause bruxism, or help you reduce the symptoms
+Drugs, stimulants, diets, can cause bruxism, or help you reduce the symptoms
 - Reduce stress using drugs or supplements, eg. CBD oil
 - Reduce ☕ coffee intake or other stimulants like [ecstasy and MDMA](https://www.spineo.org/ecstasy-mdma-and-bruxism/)
 - Avoid certain (medical) drugs, like [SSRIs](https://www.spineo.org/link-between-bruxism-and-selective-serotonin-reuptake-inhibitors-ssris)
@@ -28,13 +28,13 @@ TL;DR: some types of drugs, stimulants, diets, can cause bruxism, or help you re
 - Use of muscle relaxants (eg. Norflex, to be confirmed) can help you 
 
 ### Physical therapy
-TL;DR Bruxism is caused by increased jaw-muscle activity, as such specific muscle orientated treatments like stretching, trigger point treatment, dry needling can help treat it.
+Bruxism is caused by increased jaw-muscle activity, as such specific muscle orientated treatments like stretching, trigger point treatment, dry needling can help treat it.
 - Mouth excercices	
 - Jaw excercises
 - HIIT excercises
 
 ### Plates
-TL;DR Occlusal splints (aka 'dental guards') work by mechanically protecting the teeth. They typically do not reduce the bruxing activity itself.
+Occlusal splints (aka 'dental guards') work by mechanically protecting the teeth. They typically do not reduce the bruxing activity itself. 
 - Mouth Guards
 - Bite or Dental Correction	
 - Taping the mouth shut
@@ -49,10 +49,7 @@ TL;DR Occlusal splints (aka 'dental guards') work by mechanically protecting the
 ## Background
 
 ### Contribute
-This is a crowdsourced list. So if you have comments, additional tools, etc. share them with us.
+This is a crowdsourced list. So if you have comments, additional tools, etc. share them with us. The following people have proposed changes: [Fien](https://www.fienjonnaert.be), Katayoun Omrani, David Scott.
 
 ### Interesting reads
 - [1] "Behandeling van bruxisme. De psychologische benadering", Nederlands Tijdschrift voor Tandheelkunde, https://hdl.handle.net/11245/1.168736 (in Dutch)
-
-### Support or Contact
-This overview is curated by [Fien](https://www.fienjonnaert.be), a physical therapist specialised in disorders of the jaw muscles and temporomandibular joints. She works on a [online program](https://www.kaakpunt.be) against bruxism, currently only available in Dutch. Contact her if you want to help internationalise.
