@@ -22,6 +22,7 @@ Bruxism is often associated with stress, with specifically emotional stress and 
 ### Pills
 Drugs, stimulants, diets, can cause bruxism, or help you reduce the symptoms
 - Reduce stress using drugs or supplements, eg. CBD oil
+- Magnesium supplements, eg. [these gummies](https://www.vice.com/en/article/pkgpv8/natural-vitality-calm-magnesium-gummies-review)
 - Reduce ☕ coffee intake or other stimulants like [ecstasy and MDMA](https://www.spineo.org/ecstasy-mdma-and-bruxism/)
 - Avoid certain (medical) drugs, like [SSRIs](https://www.spineo.org/link-between-bruxism-and-selective-serotonin-reuptake-inhibitors-ssris)
 - Avoid a too acidic diet (?? to be confirmed)
