@@ -11,17 +11,17 @@ We grouped the treatments in the following categories (according to the taxonomy
 - [Others](#others), including medical procedures.
 
 ## Psychology
-Bruxism is often associated with stress, with specifically emotional stress and anxiety to be the main triggering factor. To avoid bruxism, these causes must be dealt with.
+Bruxism is often associated with stress, with specifically emotional stress and anxiety to be the main triggering factor. To avoid bruxism, these causes must be dealt with. Possible remedies and techniques:
 - General stress reduction techniques, eg. meditation or mindfulness
-- Biodynamic devices. Tools that monitor bruxism behaviour and inform the user about it, eg. using vibrations or a smartphone app. Examples of biodynamic devides are Jawsaver (in the form of smart earbuds), Grindcare (with a specific device), Jawsense, [bytesense](https://www.bytesense.us/), BiteStrip and others.
-- Faceformer, a functional, neurophysiological training program against bruxism.
-- GrindAlert
+- Biodynamic devices. Tools that monitor bruxism behaviour and inform the user when it occurs, eg. using vibrations or notifications on your smartphone. Examples of biodynamic devides are Jawsaver (in the form of smart earbuds), Grindcare (with a specific device), Jawsense, [bytesense](https://www.bytesense.us/), BiteStrip, GrindAlert and others.
+- [Faceformer](https://faceformer.de/en/), a neurophysiological training program against bruxism.
 
 ## Pills
-Drugs, stimulants, diets, can cause bruxism, or help you reduce the symptoms
+Drugs, stimulants, diets, can cause bruxism, or help you reduce the symptoms. 
 - Reduce stress using drugs or supplements, eg. CBD oil
-- Magnesium supplements, eg. [these gummies](https://www.vice.com/en/article/pkgpv8/natural-vitality-calm-magnesium-gummies-review)
 - Reduce ☕ coffee intake or other stimulants like [ecstasy and MDMA](https://www.spineo.org/ecstasy-mdma-and-bruxism/)
+- 🌊Stay hydrated, drink enough water
+
 - Avoid certain (medical) drugs, like [SSRIs](https://www.spineo.org/link-between-bruxism-and-selective-serotonin-reuptake-inhibitors-ssris)
 - Avoid a too acidic diet (?? to be confirmed)
 - Use of muscle relaxants (eg. Norflex, to be confirmed) can help you 
@@ -33,17 +33,13 @@ Bruxism is caused by increased jaw-muscle activity, as such specific muscle orie
 - HIIT excercises
 
 ## Plates
-Occlusal splints (aka 'dental guards') work by mechanically protecting the teeth. They typically do not reduce the bruxing activity itself. 
-- Mouth Guards
-- Bite or Dental Correction	
-- Taping the mouth shut
-
+- Occlusal splints (aka 'dental guards') work by mechanically protecting the teeth. They typically do not reduce the bruxing activity itself. In specific cases, surgerly like Bite or Dental Corrections can be considered.
+- 
 ## Others
+Other options include:
 - 👅Tongue surgery
 - 💉Botox injections
 - 👃Nasal dilators
-- 🌊Correct hydratation
-
 
 ## Background
 
