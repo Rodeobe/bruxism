@@ -46,5 +46,7 @@ Other options include:
 ### Contribute
 This is a crowdsourced list. So if you have comments, additional tools, etc. share them with us. The following people have proposed changes: [Fien](https://www.fienjonnaert.be), Katayoun Omrani, David Scott.
 
+More importantly: if you like this webpage, **share it**! Like the project on GitHub, share it to your followers on your socials, or do a shootout to us. Thank you!
+
 ### Interesting reads
 - [1] "Behandeling van bruxisme. De psychologische benadering", Nederlands Tijdschrift voor Tandheelkunde, https://hdl.handle.net/11245/1.168736 (in Dutch)
