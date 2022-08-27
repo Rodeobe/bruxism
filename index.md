@@ -33,12 +33,12 @@ Bruxism is caused by increased jaw-muscle activity, as such specific muscle orie
 - HIIT excercises
 
 ## Plates
-- Occlusal splints (aka 'dental guards') work by mechanically protecting the teeth. They typically do not reduce the bruxing activity itself. In specific cases, surgerly like Bite or Dental Corrections can be considered.
-- 
+Occlusal splints (aka 'dental guards') work by mechanically protecting the teeth. [They typically do not reduce the bruxing activity itself](https://www.spineo.org/does-a-mouth-guard-reduce-bruxism/). In specific cases, surgerly like Bite or Dental Corrections can be considered.
+
 ## Others
 Other options include:
 - 👅Tongue surgery
-- 💉Botox injections
+- 💉[Botox injections](https://www.spineo.org/can-botox-help-against-bruxism/)
 - 👃Nasal dilators
 
 ## Background
