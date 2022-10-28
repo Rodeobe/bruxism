@@ -21,6 +21,7 @@ Drugs, stimulants, diets, can cause bruxism, or help you reduce the symptoms.
 - Reduce stress using drugs or supplements, eg. CBD oil
 - Reduce ☕ coffee intake or other stimulants like [ecstasy and MDMA](https://www.spineo.org/ecstasy-mdma-and-bruxism/)
 - 🌊Stay hydrated, drink enough water
+- Check if your body is getting enough calcium and vitamin D . Use supplemnts if necessary [source](https://pubmed.ncbi.nlm.nih.gov/33413308/)
 
 - Avoid certain (medical) drugs, like [SSRIs](https://www.spineo.org/link-between-bruxism-and-selective-serotonin-reuptake-inhibitors-ssris)
 - Avoid a too acidic diet (?? to be confirmed)
