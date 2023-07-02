@@ -13,7 +13,7 @@ We grouped the treatments in the following categories (according to the taxonomy
 ## Psychology
 Bruxism is often associated with stress, with specifically emotional stress and anxiety to be the main triggering factor. To avoid bruxism, these causes must be dealt with. Possible remedies and techniques:
 - General stress reduction techniques, eg. meditation or mindfulness. [BruxismAcademy](https://www.bruxismacademy.com) offers multilingual courses
-- Biodynamic devices. Tools that monitor bruxism behaviour and inform the user when it occurs, eg. using vibrations or notifications on your smartphone. Examples of biodynamic devides are Jawsaver (in the form of smart earbuds), Grindcare (with a specific device), Jawsense, [bytesense](https://www.bytesense.us/), BiteStrip, GrindAlert and others.
+- Biodynamic devices. Tools that monitor bruxism behaviour and inform the user when it occurs, eg. using vibrations or notifications on your smartphone. Examples of biodynamic devides are Jawsaver (in the form of smart earbuds), Grindcare (with a specific device), Jawsense, [Sovn](https://getsovn.com/), bytesense, BiteStrip, GrindAlert and others.
 
 ## Pills
 Drugs, stimulants, diets, can cause bruxism, or help you reduce the symptoms. 
