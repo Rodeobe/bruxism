@@ -1,6 +1,6 @@
 # bruxism
 
-We maintain a curated, crowdfunded list of remedies against teeth grinding (bruxism).
+We maintain a curated, crowdfunded list of remedies against teeth grinding or bruxism.
 
 ## Participate
 Do you want to participate? Comments, improvements, additions? Found a typo? It is easy to share them with us :-)
